@@ -191,7 +191,7 @@ h1 {
   padding: 15px;
   border-radius: 15px;
   box-shadow: 6px 6px 6px rgba(89, 88, 88, 0.9);
-}
+}   
 
 .card:hover {
   transform: rotateX(55deg) translate(0%, 3%);

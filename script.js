@@ -20,7 +20,7 @@ const toggleBurger = () => {
     mainNav.forEach((item) => item.classList.remove("open"));
     showNav = false;
   }
-};
+};    
 
 hamburger.addEventListener("click", toggleBurger);
 
